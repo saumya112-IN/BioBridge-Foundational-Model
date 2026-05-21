@@ -352,12 +352,6 @@ This project is inspired by recent advances in:
 
 ---
 
-# Resume Description
-
-Developed a multimodal biomedical AI framework integrating endoscopic imaging and synthetic omics representations using PyTorch. Implemented contrastive representation learning for shared embedding alignment, biological similarity retrieval, and embedding visualization using UMAP and deep multimodal encoders.
-
----
-
 # Skills Demonstrated
 
 * Deep Learning
