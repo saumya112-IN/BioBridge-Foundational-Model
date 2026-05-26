@@ -322,6 +322,8 @@ The model successfully demonstrates:
 * Cross-modal alignment
 * Self-supervised learning behavior
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/924894b6-ca7a-40a8-9cd3-7b88b095a269" />
+
 ---
 
 # Future Improvements
